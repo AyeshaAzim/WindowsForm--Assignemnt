@@ -1,0 +1,11 @@
+C:\Users\14372\source\repos\Assignment4Original\Assignment4Original\obj\Debug\Assignment4Original.Properties.Resources.resources
+C:\Users\14372\source\repos\Assignment4Original\Assignment4Original\obj\Debug\Assignment4Original.csproj.GenerateResource.cache
+C:\Users\14372\source\repos\Assignment4Original\Assignment4Original\obj\Debug\Assignment4Original.csproj.CoreCompileInputs.cache
+C:\Users\14372\source\repos\Assignment4Original\Assignment4Original\bin\Debug\Assignment4Original.exe.config
+C:\Users\14372\source\repos\Assignment4Original\Assignment4Original\bin\Debug\Assignment4Original.exe
+C:\Users\14372\source\repos\Assignment4Original\Assignment4Original\bin\Debug\Assignment4Original.pdb
+C:\Users\14372\source\repos\Assignment4Original\Assignment4Original\obj\Debug\Assignment4Original.exe
+C:\Users\14372\source\repos\Assignment4Original\Assignment4Original\obj\Debug\Assignment4Original.pdb
+C:\Users\14372\source\repos\Assignment4Original\Assignment4Original\obj\Debug\Assignment4Original.csproj.AssemblyReference.cache
+C:\Users\14372\source\repos\Assignment4Original\Assignment4Original\obj\Debug\Assignment4Original.frmCatalog.resources
+C:\Users\14372\source\repos\Assignment4Original\Assignment4Original\obj\Debug\Assignment4Original.frmProduct.resources

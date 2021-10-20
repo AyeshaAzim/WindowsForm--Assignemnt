@@ -1,0 +1,5 @@
+﻿TestItem1	Home	30
+TestItem2	Home	74
+TestItemComputer	Electronics	100
+TestItemComputer	Electronics	200
+TestItemTV	Electronics	150
